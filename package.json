@@ -1,0 +1,27 @@
+{
+  "name": "siri",
+  "version": "1.0.0",
+  "description": "A mini project to practice basic Node.JS fundamentals and server-side programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgmemory/Siri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgmemory/Siri/issues"
+  },
+  "homepage": "https://github.com/rgmemory/Siri#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
